@@ -1,0 +1,23 @@
+body {
+color:white;
+background-color:black;
+}
+h1{
+	font-family:Arial;
+	font-size: 22px;
+}
+.Program {
+	color:black;
+	background-color:white;
+	text-align: center;
+}
+.Program2 {
+	text-align: right;
+}
+.Program3 {
+	border-style: solid;
+}
+a:link {
+text-decoration:none;
+color:white;
+}
