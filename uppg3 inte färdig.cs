@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Uppg 3!</title>
-
+<link href="Style.css" rel="Stylesheet"> 
   </head>
   <body>
     <table>
