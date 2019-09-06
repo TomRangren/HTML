@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Uppg 3!</title>
+
+  </head>
+  <body>
+    <table>
+  <tr>
+      <th>Namn</th>
+        <th>År</th>
+          <th>Klockfrekvens</th>
+            <th>Antal transistorer</th>
+  </tr>
+  <tr>
+    <td>Intel 8088</td>
+      <td>1979</td>
+        <td>4,77 MHz</td>
+          <td>29 000</td>
+  </tr>
+  <tr>
+    <td>Intel 80386DX</td>
+      <td>1985</td>
+        <td>16 MHz</td>
+          <td>275 000</td>
+  </tr>
+  <tr>
+    <td>Pentium</td>
+      <td>1933</td>
+        <td>60 MHz</td>
+          <td>3 100 000</td>
+  </tr>
+  <tr>
+    <td>Core I7</td>
+      <td>2008</td>
+        <td>3,33 MHz</td>
+          <td>781 000 000</td>
+  </tr>
+    </table>
+    
+
+              
+  </body>
+</html>
