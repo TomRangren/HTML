@@ -1,0 +1,32 @@
+table, td {
+	border:solid black;
+	border-collapse: collapse;
+}
+table {
+	width:200%;
+	height:200%;
+}
+body{
+	height:200px;
+	width:200px;
+}
+.blue {
+	background-color:dodgerblue;
+}
+.red{
+	background-color:red;
+}
+.black{
+	background-color:black;
+}
+.lime{
+	background-color:lime;
+}
+.yellow{
+	background-color:yellow;
+}
+caption{
+	caption-side:bottom;
+	font-size:40px;
+}
+	
