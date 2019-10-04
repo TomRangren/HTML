@@ -1,7 +1,7 @@
 body {
-color:white;
-background-image: url("https://i.pinimg.com/originals/f0/a7/81/f0a781448c5ef1a5020c908a95ad7062.jpg");
-text-align:left;
+	color:white;
+	background-image: url("https://i.pinimg.com/originals/f0/a7/81/f0a781448c5ef1a5020c908a95ad7062.jpg");
+	text-align:left;
 }
 div{
 	color:black;
@@ -18,22 +18,22 @@ h1, h2, h3{
 }
 
 a:link {
-text-decoration:none;
-color:white;
+	text-decoration:none;
+	color:white;
 }
 .Grid{
 	
 	display: grid;
 	grid-template-columns:repeat(2, 2fr);
-	grid-template-area: "Content1 Content2";
+	grid-template-areas: "Content1 Content2";
 }
 section{
 	display: grid;
-	grid-area:"content1";
+	grid-area:Content1;
 }
 .section2{
 	display: grid;
-	grid-area:"Content2"
+	grid-area:Content2;
 }
 .Img{
 	width: 200px;
